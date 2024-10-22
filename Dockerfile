@@ -1,3 +1,3 @@
-FROM quay.io/alpine/alpine:latest
+FROM quay.io/jitesoft/alpine
 
 ENTRYPOINT echo Hello World!!
